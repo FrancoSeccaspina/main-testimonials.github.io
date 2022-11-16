@@ -166,26 +166,27 @@ body{
         width: 23%;
         margin-right: 20%;
         margin-top: -21%;
-        padding-bottom: 5rem;
-        margin-left: 53%;
+        padding-bottom: 5.5rem
+;
+    margin-left: 53%;
     }
 
     .contenedorBlanco{
         width: 18%;
         margin-left: 14%;
-        margin-top:2.5%;
-        padding-bottom:2rem 
+        margin-top: 2.5%;
+        padding-bottom: 2rem;
     }
 
     .contenedorOscuro{
-        width: 43%;
+       width: 43%;
         margin-top: -19%;
         margin-left: 33%;
         padding-bottom: 2rem;
     }
 
     .contenedorBlanco2{
-        width: 20%;
+      width: 20%;
         margin-right: 2%;
         margin-top: -39%;
     }
